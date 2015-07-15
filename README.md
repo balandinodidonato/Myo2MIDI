@@ -1,6 +1,7 @@
-#MyoPd#
-This script aims to communicate the gestural data generated using the [Myo Armband](https://www.thalmic.com/en/myo/) to audio softwares trough the MIDI Protocol.
-It has been developed by [Balandino Di Donato](http://balandinodidonato.com) as a part of his research work at the [Integra Lab](http://www.bcu.ac.uk/conservatoire/research/research-funded-projects/integra-lab).
+#Myo2MIDI#
+This script aims to communicate the gestural data generated using the [Myo Armband](https://www.thalmic.com/en/myo/) to audio softwares through the MIDI Protocol.
+It has been developed by [Balandino Di Donato](http://balandinodidonato.com) as a part of his research work at the [Integra Lab](http://www.integra.io).
+
 Please visit his website to know more about it: [www.balandinodidonato.com](http://balandinodidonato.com)
 
 ## License ##
